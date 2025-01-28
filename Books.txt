@@ -1,0 +1,20 @@
+Artificial Intelligence: A Guide to Intelligent Systems,Michael Negnevitsky,2005,9780321204660
+Superintelligence: Paths Dangers Strategies,Nick Bostrom,2014,9780198739838
+Human Compatible: Artificial Intelligence and the Problem of Control,Stuart Russell,2019,9780525557999
+Life 3.0: Being Human in the Age of Artificial Intelligence,Max Tegmark,2017,9781101970317
+Artificial Intelligence: A Modern Approach,Stuart Russell and Peter Norvig,2021,9780134610993
+Deep Learning,Ian Goodfellow Yoshua Bengio and Aaron Courville,2016,9780262035613
+The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World,Pedro Domingos,2015,9780465065707
+Prediction Machines: The Simple Economics of Artificial Intelligence,Ajay Agrawal Joshua Gans and Avi Goldfarb,2018,9781633695672
+Rebooting AI: Building Artificial Intelligence We Can Trust,Gary Marcus and Ernest Davis,2019,9781524748258
+Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy,Cathy O'Neil,2016,9780553418835
+The Social Construction of Reality A Treatise in the Sociology of Knowledge,Peter L. Berger and Thomas Luckmann,1966,9780385058988
+Thinking Fast and Slow,Daniel Kahneman,2011,9780374533557
+The Tipping Point How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,9780316346627
+Outliers The Story of Success,Malcolm Gladwell,2008,9780316017930
+Guns Germs and Steel The Fates of Human Societies,Jared Diamond,1997,9780393317558
+Sapiens A Brief History of Humankind,Yuval Noah Harari,2014,9780062316110
+Homo Deus A Brief History of Tomorrow,Yuval Noah Harari,2016,9780062464316
+The Structure of Scientific Revolutions,Thomas S. Kuhn,1962,9780226458120
+Bowling Alone The Collapse and Revival of American Community,Robert D. Putnam,2000,9780743203043
+The Spirit Level Why Equality is Better for Everyone,Richard Wilkinson and Kate Pickett,2009,9781608193417
